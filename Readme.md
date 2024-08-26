@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavik Chhabria</h1>
-<h3 align="center">A passionate in DevOps Automation and Web developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img src="![images](https://github.com/user-attachments/assets/9b2b250b-623f-400a-90e8-4c05eb1e45f4)" width=450px 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bha1212002&label=Profile%20views&color=0e75b6&style=flat" alt="bha1212002" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bha1212002](https://github.com/bha1212002)
 
-- 💬 Ask me about **Devops, React, Kotlin and Web design**
+- 💬 Ask me about **Devops, React and Web design**
 
 - 📫 How to reach me **bhavikchhabria@gmail.com**
 
