@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  ![Snake animation](https://github.com/BhavikChhabria/Bhavik-Chhabria/blob/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://github.com/BhavikChhabria/BhavikChhabria/blob/output/github-contribution-grid-snake.gif)
 </p>
 
 
