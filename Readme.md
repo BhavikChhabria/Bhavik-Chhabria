@@ -2,7 +2,7 @@
 <img src="![images](https://github.com/user-attachments/assets/9b2b250b-623f-400a-90e8-4c05eb1e45f4)" width=450px 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BhavikChhabria&label=Profile%20views&color=0e75b6&style=flat" alt="BhavikChhabria" /> </p>
 
-- 🌱 I’m currently learning and implementing **Devops Tools and Technology**
+- 🌱 I’m currently learning and implementing **Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhavikChhabria](https://github.com/BhavikChhabria)
 
