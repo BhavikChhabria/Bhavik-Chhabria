@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhavikChhabria](https://github.com/BhavikChhabria)
 
-- 💬 Ask me about **Devops, React and Web design**
+- 💬 Ask me about **Python-Administrator, Mongod, HTML, JS, Devops, React**
 
 - 📫 How to reach me **bhavikchhabria@gmail.com**
 
